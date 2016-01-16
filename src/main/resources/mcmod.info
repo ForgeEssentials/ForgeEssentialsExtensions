@@ -1,0 +1,20 @@
+[
+{
+	"modid": "ForgeEssentialsExtensions",
+	"name": "Forge Essentials Extensions",
+	"description": "Forge Essentials Extensions mod which adds additional, special features",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "https://github.com/ForgeEssentials/ForgeEssentialsExtensions",
+	"updateUrl": "",
+	"authorList": [
+		"olee"
+	],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": [
+		"ForgeEssentials"
+	]
+}
+]
